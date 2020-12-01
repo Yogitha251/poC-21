@@ -1,2 +1,2 @@
-# poC-21
-project no.21
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
